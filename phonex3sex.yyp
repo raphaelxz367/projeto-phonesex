@@ -171,6 +171,7 @@
     {"id":{"name":"spr_mordida_monstro_de_gaia","path":"sprites/spr_mordida_monstro_de_gaia/spr_mordida_monstro_de_gaia.yy",},},
     {"id":{"name":"spr_mostro_ataque","path":"sprites/spr_mostro_ataque/spr_mostro_ataque.yy",},},
     {"id":{"name":"spr_mostro_de_gaia","path":"sprites/spr_mostro_de_gaia/spr_mostro_de_gaia.yy",},},
+    {"id":{"name":"spr_piru_de_borracha","path":"sprites/spr_piru_de_borracha/spr_piru_de_borracha.yy",},},
     {"id":{"name":"spr_pistola_moldura","path":"sprites/spr_pistola_moldura/spr_pistola_moldura.yy",},},
     {"id":{"name":"spr_pistola","path":"sprites/spr_pistola/spr_pistola.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
