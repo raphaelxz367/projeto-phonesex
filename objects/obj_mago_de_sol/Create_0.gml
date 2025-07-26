@@ -1,0 +1,11 @@
+vida = 15
+criado = 0 
+timer = 30 
+contabilizando  = 1 
+congelado = 0 
+velocidade = .6;
+distancia_seguir = 320;
+distancia_invocar = 340;
+cajado_criado = false;
+alpha = 0
+color  = c_white

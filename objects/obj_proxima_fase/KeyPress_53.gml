@@ -1,0 +1,6 @@
+if(file_exists("save.sav")) file_delete("save.sav")	
+ini_open("save.sav")
+ini_write_real("Jogador","Vida_Atual", obj_player.vida)
+ini_write_real("Jogador","Dinheiro_Atual", obj_dinheiro_controller.moedas)
+ini_close()
+show_debug_message("cu preto")

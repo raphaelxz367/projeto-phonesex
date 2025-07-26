@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"gerar_fase",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gerar_fase",
+  "parent":{
+    "name":"rooms",
+    "path":"folders/Objetos/gamew/rooms.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

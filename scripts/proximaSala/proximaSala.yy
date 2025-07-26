@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"proximaSala",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"proximaSala",
+  "parent":{
+    "name":"rooms",
+    "path":"folders/Objetos/gamew/rooms.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

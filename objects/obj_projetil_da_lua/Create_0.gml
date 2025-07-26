@@ -1,0 +1,5 @@
+move_towards_point(obj_player.x,obj_player.y,6)
+sistema = part_system_create()
+tipo = part_type_create()
+emissor = part_emitter_create(sistema)
+audio_play_sound(tiro,1,0)
