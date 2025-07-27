@@ -66,21 +66,21 @@ if (pose_gun == 0) {
 
 #endregion
 #region faca 
-if (pose_gun == 0) {
+if pose_gun = 0{
+	if (pose_gun == 0) {
     var faca_proxima = instance_nearest(x, y, obj_faca);
     if (faca_proxima != noone) {
         var dist = point_distance(x, y, faca_proxima.x, faca_proxima.y);
         if (dist <=40 && keyboard_check_pressed(ord("E"))) {  // raio de 16 para facilitar
             pose_gun = 1;
-            faca = 1;
+			faca = 1;
             faca_proxima.equipada = true;  // marca essa faca como equipada
             // Opcional: você pode destruir a faca se quiser que desapareça ao pegar
             // instance_destroy(faca_proxima);
         }
     }
 }
-
-
+}
 
 
 #endregion

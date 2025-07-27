@@ -19,9 +19,6 @@
     {"name":"inst_B2AF0BD_1_1_1","path":"rooms/Room5/Room5.yy",},
     {"name":"inst_6AAA79E4","path":"rooms/Room5/Room5.yy",},
     {"name":"inst_4FAD21BB","path":"rooms/Room5/Room5.yy",},
-    {"name":"inst_3CF37799","path":"rooms/Room5/Room5.yy",},
-    {"name":"inst_7C091DE0","path":"rooms/Room5/Room5.yy",},
-    {"name":"inst_5AB8842E","path":"rooms/Room5/Room5.yy",},
     {"name":"inst_1C967F88","path":"rooms/Room5/Room5.yy",},
     {"name":"inst_5575D8A6","path":"rooms/Room5/Room5.yy",},
     {"name":"inst_6D85721D","path":"rooms/Room5/Room5.yy",},
@@ -36,6 +33,9 @@
     {"name":"inst_7B1A86C3","path":"rooms/Room5/Room5.yy",},
     {"name":"inst_14C1A945","path":"rooms/Room5/Room5.yy",},
     {"name":"inst_143D867F","path":"rooms/Room5/Room5.yy",},
+    {"name":"inst_5EE17158","path":"rooms/Room5/Room5.yy",},
+    {"name":"inst_304E05EA","path":"rooms/Room5/Room5.yy",},
+    {"name":"inst_191ACDF4","path":"rooms/Room5/Room5.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -48,6 +48,9 @@
         {"$GMRInstance":"v2","%Name":"inst_EF20443_1_1_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_EF20443_1_1_1_1","objectId":{"name":"obj_armas","path":"objects/obj_armas/obj_armas.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":123.0,"y":467.0,},
         {"$GMRInstance":"v2","%Name":"inst_6AAA79E4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6AAA79E4","objectId":{"name":"obj_player_info","path":"objects/obj_player_info/obj_player_info.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.8742657,"scaleY":2.0,"x":31.0,"y":33.0,},
         {"$GMRInstance":"v2","%Name":"inst_58D02ACA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_58D02ACA","objectId":{"name":"obj_pistola","path":"objects/obj_pistola/obj_pistola.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":23.539331,"scaleX":1.0,"scaleY":1.0,"x":340.0,"y":590.0,},
+        {"$GMRInstance":"v2","%Name":"inst_5EE17158","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5EE17158","objectId":{"name":"obj_monstro_d_gaia","path":"objects/obj_monstro_d_gaia/obj_monstro_d_gaia.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":512.0,"y":224.0,},
+        {"$GMRInstance":"v2","%Name":"inst_304E05EA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_304E05EA","objectId":{"name":"obj_monstro_d_gaia","path":"objects/obj_monstro_d_gaia/obj_monstro_d_gaia.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":768.0,"y":224.0,},
+        {"$GMRInstance":"v2","%Name":"inst_191ACDF4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_191ACDF4","objectId":{"name":"obj_mago_de_sol","path":"objects/obj_mago_de_sol/obj_mago_de_sol.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":608.0,"y":96.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_372C12A3_1_1_1_1","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_372C12A3_1_1_1_1","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":46.482124,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"x":248.0,"y":611.0,},
@@ -77,9 +80,6 @@
         {"$GMRInstance":"v2","%Name":"inst_7F4F7360_1_1_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7F4F7360_1_1_1_1","objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":20.0,"x":0.0,"y":0.0,},
         {"$GMRInstance":"v2","%Name":"inst_5740A43A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5740A43A","objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-0.12354071,"scaleX":2.03125,"scaleY":1.03125,"x":318.0,"y":575.0,},
         {"$GMRInstance":"v2","%Name":"inst_B2AF0BD_1_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_B2AF0BD_1_1_1","objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.0312505,"scaleY":1.0,"x":544.0,"y":160.0,},
-        {"$GMRInstance":"v2","%Name":"inst_3CF37799","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3CF37799","objectId":{"name":"obj_monstro_d_gaia","path":"objects/obj_monstro_d_gaia/obj_monstro_d_gaia.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":845.0,"y":254.0,},
-        {"$GMRInstance":"v2","%Name":"inst_7C091DE0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7C091DE0","objectId":{"name":"obj_monstro_d_gaia","path":"objects/obj_monstro_d_gaia/obj_monstro_d_gaia.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":432.0,"y":251.0,},
-        {"$GMRInstance":"v2","%Name":"inst_5AB8842E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5AB8842E","objectId":{"name":"obj_mago_de_sol","path":"objects/obj_mago_de_sol/obj_mago_de_sol.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":613.0,"y":80.0,},
         {"$GMRInstance":"v2","%Name":"inst_1C967F88","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1C967F88","objectId":{"name":"obj_espinho","path":"objects/obj_espinho/obj_espinho.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":615.0,"y":325.0,},
         {"$GMRInstance":"v2","%Name":"inst_5575D8A6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5575D8A6","objectId":{"name":"obj_espinho","path":"objects/obj_espinho/obj_espinho.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":647.0,"y":325.0,},
         {"$GMRInstance":"v2","%Name":"inst_6D85721D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6D85721D","objectId":{"name":"obj_espinho","path":"objects/obj_espinho/obj_espinho.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":679.0,"y":325.0,},
@@ -98,7 +98,7 @@
   "name":"Room5",
   "parent":{
     "name":"Cenas",
-    "path":"folders/Cenas.yy",
+    "path":"folders/Caminhos/Cenas.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

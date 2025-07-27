@@ -1,4 +1,4 @@
-vida -=1
+vida -=2
 alpha = 1
 instance_destroy(other)
 

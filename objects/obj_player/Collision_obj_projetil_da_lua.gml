@@ -1,1 +1,1 @@
-obj_player_info.vida -=.03
+obj_player_info.vida -=.01

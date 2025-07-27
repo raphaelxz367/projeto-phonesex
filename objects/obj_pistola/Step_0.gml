@@ -1,5 +1,5 @@
 #region //atirando
-if  (equipada) {
+if  (equipada){
     x = obj_player.x;
     y = obj_player.y;
 	persistent = true
@@ -20,6 +20,7 @@ atirou = 0
 timer = 30
 }
 }
+
 #endregion
 #region // jogar a porra da arma fora 
 

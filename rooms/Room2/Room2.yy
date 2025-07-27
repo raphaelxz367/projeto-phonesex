@@ -78,7 +78,7 @@
   "name":"Room2",
   "parent":{
     "name":"Cenas",
-    "path":"folders/Cenas.yy",
+    "path":"folders/Caminhos/Cenas.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

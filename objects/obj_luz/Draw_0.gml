@@ -2,7 +2,7 @@ if (surface_exists(luz))
 {
 	surface_set_target(luz)
 	draw_set_alpha(0.90)
-	draw_set_color(c_black)
+	draw_set_color(c_fuchsia)
 	draw_rectangle(278,29,1005,615,false)
 	draw_set_alpha(1)
 	draw_set_color(c_white)
